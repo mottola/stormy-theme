@@ -1,0 +1,15 @@
+{
+    "name": "storm-theme",
+    "title": "storm-theme",
+    "description": "Dark and stormy theme that is easy on the eyes",
+    "homepage": "https://github.com/mottola/storm-theme",
+    "version": "1.0.0",
+    "author": "Rick Mottola <mottola.rick@gmail.com> (http://github.com/mottola)",
+    "license": "NA",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
